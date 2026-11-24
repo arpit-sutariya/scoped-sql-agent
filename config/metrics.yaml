@@ -1,0 +1,42 @@
+# Business definitions agreed with the (fictional) client. The agent must use these instead of
+# inventing its own, so two people asking the same question get the same number.
+
+as_of: "2026-10-31"   # last day of data. "This year", "last month" etc. are relative to this date.
+
+metrics:
+  revenue:
+    definition: Sum of orders.total_usd for orders with status 'delivered' or 'shipped'.
+    excludes: Cancelled, returned and open orders.
+    sql_hint: "SELECT SUM(total_usd) FROM orders WHERE status IN ('delivered','shipped')"
+  order_count:
+    definition: Number of orders with status 'delivered' or 'shipped' (same filter as revenue).
+  average_order_value:
+    definition: revenue / order_count, using the same status filter.
+  active_customer:
+    definition: A customer with at least one revenue order (delivered or shipped) in the 12 months up to as_of,
+      i.e. order_date between '2025-11-01' and '2026-10-31'.
+  churned_customer:
+    definition: A customer with revenue orders in the past but none in the 12 months up to as_of.
+  resolution_time:
+    definition: tickets.resolution_hours for tickets with status 'solved' or 'closed'. Tickets with invalid
+      timestamps have NULL resolution_hours and are excluded.
+  csat:
+    definition: Average of tickets.csat where csat is not NULL (scale 1-5).
+  quarter:
+    definition: Calendar quarters (Q1 = Jan-Mar). The fiscal year equals the calendar year.
+
+tables:
+  customers: One row per ERP customer. region comes from the ERP (billing address); crm_region is what the CRM says.
+  prospects: Accounts in the CRM that have never ordered. Not customers.
+  reps: Sales reps. active = 0 means they've left but may still own accounts.
+  products: Product catalogue.
+  orders: One row per order. region = the customer's region. total_usd = sum of its lines.
+  order_lines: Order line items. line_total = qty * unit_price.
+  tickets: Support tickets, timestamps in UTC. customer_id is NULL when the ticket couldn't be attributed.
+  data_quality: Every conflict or gap found while combining the sources, and how it was resolved.
+
+not_available:
+  - Product cost, margin or profit (the ERP export has no cost data)
+  - Website traffic or marketing data
+  - Forecasts or targets
+  - Anything before 2025-01-01 (orders) or 2025-03-01 (tickets)

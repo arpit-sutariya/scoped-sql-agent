@@ -1,0 +1,9 @@
+rep_id,full_name,email,region,active
+R01,Maria Lopez,maria.lopez@harborline.com,West,yes
+R02,Kenji Watanabe,kenji.watanabe@harborline.com,West,yes
+R03,Tom Becker,tom.becker@harborline.com,Central,yes
+R04,Aisha Johnson,aisha.johnson@harborline.com,Central,no
+R05,Dev Patel,dev.patel@harborline.com,East,yes
+R06,Laura Chen,laura.chen@harborline.com,East,yes
+R07,Marcus Hill,marcus.hill@harborline.com,South,yes
+R08,Sofia Ramirez,sofia.ramirez@harborline.com,South,yes

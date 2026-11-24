@@ -1,0 +1,47 @@
+{
+ "refusals": {
+  "WRITE_BLOCKED": 47,
+  "PERMISSION_DENIED": 47,
+  "INVALID_SQL": 4,
+  "TIMEOUT": 4
+ },
+ "refusal_failures": [],
+ "exfil_queries": 56,
+ "cells_scanned": 43144,
+ "leaks": [],
+ "by_user": {
+  "maria": {
+   "refused": 25,
+   "attempts": 25,
+   "cells": 8055,
+   "leaks": 0,
+   "scope": "region West only",
+   "forbidden_values_checked": 3159
+  },
+  "dev": {
+   "refused": 25,
+   "attempts": 25,
+   "cells": 9483,
+   "leaks": 0,
+   "scope": "region East only",
+   "forbidden_values_checked": 2690
+  },
+  "priya": {
+   "refused": 23,
+   "attempts": 23,
+   "cells": 13526,
+   "leaks": 0,
+   "scope": "all regions",
+   "forbidden_values_checked": 0
+  },
+  "sam": {
+   "refused": 29,
+   "attempts": 29,
+   "cells": 12080,
+   "leaks": 0,
+   "scope": "all regions",
+   "forbidden_values_checked": 110
+  }
+ },
+ "control_leaks": 3206
+}

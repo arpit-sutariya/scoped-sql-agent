@@ -1,0 +1,39 @@
+# Who can see what. Enforced inside the database session (see data_agent/access.py),
+# not in the AI's instructions, so no prompt can get around it.
+
+roles:
+  vp_sales:
+    description: Sees every region and every column.
+    hidden_columns: {}
+
+  regional_manager:
+    description: Sees only their own region. No customer contact emails (PII).
+    hidden_columns:
+      customers: [contact_email]
+
+  support_lead:
+    description: Sees tickets and customers in every region, but no money figures and no contact emails.
+    hidden_columns:
+      customers: [annual_revenue_usd, contact_email]
+      prospects: [annual_revenue_usd]
+      orders: [total_usd]
+      order_lines: [unit_price, line_total]
+      products: [list_price]
+
+users:
+  maria:
+    name: Maria Lopez
+    role: regional_manager
+    regions: [West]
+  dev:
+    name: Dev Patel
+    role: regional_manager
+    regions: [East]
+  priya:
+    name: Priya Shah
+    role: vp_sales
+    regions: all
+  sam:
+    name: Sam Green
+    role: support_lead
+    regions: all

@@ -1,0 +1,125 @@
+account_id,account_name,erp_customer_id,region,industry,owner,annual_revenue,website,primary_contact_email,last_modified
+A-3096,Evergreen Foods Corp.,C-1105,Central,Food & Beverage,tom.becker@harborline.com,approx 4M,www.evergreenfoods.com,raj@evergreenfoods.com,28-Jan-2026
+A-3062,Granite Brewing,C-1067,West,Food & Beverage,maria.lopez@harborline.com,approx 1M,www.granitebrewing.com,jane@granitebrewing.com,06/22/2026
+A-3021,Evergreen Auto Parts LLC,C-1022,East,Automotive,Laura Chen,12000000,www.evergreenautoparts.com,ops@evergreenautoparts.com,30-Sep-2026
+A-3124,Cedar Hospitality LLC,,Northeast,Hospitality,Dev Patel,$2.0M,www.cedarhospitality.com,info@cedarhospitality.com,07/25/2026
+A-3018,Summit Packaging,C-1019,East,Manufacturing,Dev Patel,1200000,www.summitpackaging.com,raj@summitpackaging.com,21-Sep-2026
+A-3050,Maple Brewing,,South,Food & Beverage,Sofia Ramirez,$1.2M,www.maplebrewing.com,raj@maplebrewing.com,02-Apr-2026
+A-3008,Westfield Medical Supply Corp.,C-1009,South,Healthcare,Sofia Ramirez,$12.0M,www.westfieldmedicalsupply.com,ap@westfieldmedicalsupply.com,09/20/2026
+A-3080,Kingsley Property Services Company,C-1088,Northeast,Real Estate,Laura Chen,approx 30M,www.kingsleypropertyservices.com,ap@kingsleypropertyservices.com,02/17/2026
+A-3002,Beacon Auto Parts,C-1002,South,Automotive,Sofia Ramirez,$0.4M,www.beaconautoparts.com,ops@beaconautoparts.com,2026-09-25
+A-3019,Meadow Foods Inc.,C-1020,Southeast,Food & Beverage,Marcus Hill,,www.meadowfoods.com,jane@meadowfoods.com,07/28/2026
+A-3032,Meadow Print Works Corp.,C-1034,West Coast,Media,kenji.watanabe@harborline.com,800000,www.meadowprintworks.com,raj@meadowprintworks.com,17-Mar-2026
+A-3121,Cedar Print Works LLC,,West,Media,Maria Lopez,,www.cedarprintworks.com,info@cedarprintworks.com,09/12/2026
+A-3037,Pinecrest Packaging Inc.,C-1040,Central,Manufacturing,Tom Becker,400000,www.pinecrestpackaging.com,kim@pinecrestpackaging.com,10-Apr-2026
+A-3065,Highland Medical Supply LLC,C-1071,CENTRAL,Healthcare,Aisha Johnson,$7.5M,www.highlandmedicalsupply.com,ap@highlandmedicalsupply.com,18-Jun-2026
+A-3059,Willow Fitness,C-1064,CENTRAL,Hospitality,Aisha Johnson,,www.willowfitness.com,ap@willowfitness.com,14-Oct-2026
+A-3071,Lakeshore Print Works,,Northeast,Media,Laura Chen,$12.0M,www.lakeshoreprintworks.com,ap@lakeshoreprintworks.com,04/25/2026
+A-3112,pinecrest packaging inc.,,Central,Manufacturing,Tom Becker,approx 0M,www.pinecrestpackaging.com,kim@pinecrestpackaging.com,01-Apr-2025
+A-3086,Blue Water Property Services,,East Coast,Real Estate,Dev Patel,400000,www.bluewaterpropertyservices.com,purchasing@bluewaterpropertyservices.com,20-Aug-2026
+A-3070,Sterling Packaging,,South,Manufacturing,Marcus Hill,,www.sterlingpackaging.com,raj@sterlingpackaging.com,2026-01-09
+A-3082,Granite Medical Supply LLC,C-1090,Central,Healthcare,Tom Becker,2500000,www.granitemedicalsupply.com,jane@granitemedicalsupply.com,2026-09-23
+A-3110,Beacon Property Services Inc.,,South,Real Estate,Sofia Ramirez,approx 2M,www.beaconpropertyservices.com,purchasing@beaconpropertyservices.com,02/18/2026
+A-3081,Prairie Fitness,C-1089,West Coast,Hospitality,Kenji Watanabe,,www.prairiefitness.com,purchasing@prairiefitness.com,2026-10-13
+A-3123,Evergreen Labs LLC,,Central,Life Sciences,Tom Becker,approx 6M,www.evergreenlabs.com,info@evergreenlabs.com,2026-06-02
+A-3067,Oakridge Property Services Inc.,C-1073,SOUTH,Real Estate,Marcus Hill,,www.oakridgepropertyservices.com,kim@oakridgepropertyservices.com,04-May-2026
+A-3119,Prairie Logistics LLC,,Central,Transportation,Aisha Johnson,2000000,www.prairielogistics.com,info@prairielogistics.com,2026-08-27
+A-3027,Maple Construction Co.,C-1028,SOUTH,Construction,Sofia Ramirez,$0.4M,www.mapleconstruction.com,purchasing@mapleconstruction.com,2026-08-16
+A-3042,Meadow Packaging LLC,C-1046,WEST,Manufacturing,Kenji Watanabe,approx 4M,www.meadowpackaging.com,ap@meadowpackaging.com,27-Jan-2026
+A-3107,Coastal Packaging,C-1117,Northeast,Manufacturing,Dev Patel,2500000,www.coastalpackaging.com,ap@coastalpackaging.com,26-Mar-2026
+A-3036,Ironwood Medical Supply Inc.,C-1039,East,Healthcare,Laura Chen,7500000,www.ironwoodmedicalsupply.com,jane@ironwoodmedicalsupply.com,09/19/2026
+A-3004,Maple Property Services LLC,C-1004,East Coast,Real Estate,dev.patel@harborline.com,$1.2M,www.maplepropertyservices.com,purchasing@maplepropertyservices.com,08/29/2026
+A-3103,Stone Bridge Labs,,Central,Life Sciences,Tom Becker,$4.0M,www.stonebridgelabs.com,kim@stonebridgelabs.com,2026-09-28
+A-3041,Evergreen Property Services Corp.,C-1045,West Coast,Real Estate,Kenji Watanabe,400000,www.evergreenpropertyservices.com,ops@evergreenpropertyservices.com,28-Sep-2026
+A-3044,Arrow Logistics,C-1048,SOUTH,Transportation,Dev Patel,$12.0M,www.arrowlogistics.com,kim@arrowlogistics.com,2026-08-22
+A-3100,Meadow Dental Group LLC,C-1109,Central,Healthcare,Aisha Johnson,approx 12M,www.meadowdentalgroup.com,kim@meadowdentalgroup.com,2026-03-07
+A-3069,Summit Fitness,C-1075,South,Hospitality,Sofia Ramirez,7500000,www.summitfitness.com,kim@summitfitness.com,17-Jun-2026
+A-3031,Stone Bridge Dental Group LLC,,South,Healthcare,Marcus Hill,800000,www.stonebridgedentalgroup.com,ap@stonebridgedentalgroup.com,2026-05-04
+A-3055,Brightway Construction,C-1059,East,Construction,Laura Chen,approx 1M,www.brightwayconstruction.com,raj@brightwayconstruction.com,31-Jul-2026
+A-3063,North Gate Foods Inc.,,Northeast,Food & Beverage,Maria Lopez,1200000,www.northgatefoods.com,ap@northgatefoods.com,02/03/2026
+A-3013,Coastal Property Services Corp.,C-1014,SOUTH,Real Estate,Sofia Ramirez,"400,000",www.coastalpropertyservices.com,ap@coastalpropertyservices.com,09/03/2026
+A-3109,Cedar Manufacturing Company,C-1119,SOUTH,Manufacturing,Sofia Ramirez,4000000,www.cedarmanufacturing.com,jane@cedarmanufacturing.com,09/15/2026
+A-3085,Falcon Construction Co.,C-1093,South,Construction,marcus.hill@harborline.com,12000000,www.falconconstruction.com,purchasing@falconconstruction.com,2026-04-14
+A-3113,Harbor Dental Group ,,Midwest,Healthcare,Aisha Johnson,500000,www.harbordentalgroup.com,raj@harbordentalgroup.com,27-Jun-2025
+A-3015,Pinecrest Brewing Corp.,C-1016,South,Food & Beverage,Sofia Ramirez,,www.pinecrestbrewing.com,ap@pinecrestbrewing.com,2026-03-02
+A-3017,Kingsley Auto Parts Corp.,C-1018,East,Automotive,Dev Patel,$30.0M,www.kingsleyautoparts.com,jane@kingsleyautoparts.com,19-Jan-2026
+A-3088,Maple Auto Parts Corp.,C-1096,East,Automotive,Laura Chen,800000,www.mapleautoparts.com,ops@mapleautoparts.com,03/15/2026
+A-3039,Arrow Fitness Corp.,C-1043,EAST,Hospitality,Laura Chen,30000000,www.arrowfitness.com,raj@arrowfitness.com,01-Mar-2026
+A-3105,COPPER CONSTRUCTION CORP.,,East,Construction,Dev Patel,400000,www.copperconstruction.com,kim@copperconstruction.com,22-Feb-2026
+A-3033,Copper Property Services Co.,C-1035,South,Real Estate,Marcus Hill,approx 30M,www.copperpropertyservices.com,jane@copperpropertyservices.com,2026-08-24
+A-3025,Kingsley Dental Group Inc.,C-1026,SOUTH,Healthcare,Sofia Ramirez,4000000,www.kingsleydentalgroup.com,jane@kingsleydentalgroup.com,18-Mar-2026
+A-3115,Oakridge Auto Parts ,,West,Automotive,Maria Lopez,approx 1M,www.oakridgeautoparts.com,ap@oakridgeautoparts.com,03/15/2025
+A-3048,Redwood Logistics,C-1052,South,Transportation,Sofia Ramirez,approx 1M,www.redwoodlogistics.com,purchasing@redwoodlogistics.com,30-Mar-2026
+A-3047,Ironwood Logistics Inc.,,CENTRAL,Transportation,Aisha Johnson,12000000,www.ironwoodlogistics.com,ap@ironwoodlogistics.com,01/10/2026
+A-3087,Harbor Construction Inc.,C-1095,Midwest,Construction,Aisha Johnson,12000000,www.harborconstruction.com,kim@harborconstruction.com,2026-06-30
+A-3006,Beacon Construction,C-1007,west,Construction,Maria Lopez,,www.beaconconstruction.com,kim@beaconconstruction.com,2026-10-14
+A-3076,Juniper Packaging,C-1084,CENTRAL,Manufacturing,Tom Becker,"800,000",www.juniperpackaging.com,ap@juniperpackaging.com,06/20/2026
+A-3122,Maple Dental Group LLC,,Northeast,Healthcare,Laura Chen,"500,000",www.mapledentalgroup.com,info@mapledentalgroup.com,2026-09-26
+A-3095,Northgate Construction,C-1104,Northeast,Construction,laura.chen@harborline.com,,www.northgateconstruction.com,purchasing@northgateconstruction.com,28-Sep-2026
+A-3011,ARROW DENTAL GROUP LLC,C-1012,West Coast,Healthcare,Maria Lopez,$0.4M,www.arrowdentalgroup.com,purchasing@arrowdentalgroup.com,16-Mar-2026
+A-3007,Harbor Medical Supply,C-1008,SOUTH,Healthcare,sofia.ramirez@harborline.com,,www.harbormedicalsupply.com,kim@harbormedicalsupply.com,04/25/2026
+A-3072,Harbor Dental Group,C-1079,Midwest,Healthcare,Aisha Johnson,,www.harbordentalgroup.com,raj@harbordentalgroup.com,08/24/2026
+A-3114,Maple Construction Co. ,,SOUTH,Construction,Sofia Ramirez,3000000,www.mapleconstruction.com,purchasing@mapleconstruction.com,29-Apr-2025
+A-3064,Blue Water Print Works Inc.,,East,Media,Laura Chen,12000000,www.bluewaterprintworks.com,kim@bluewaterprintworks.com,2026-04-17
+A-3117,Ironwood Construction LLC,,Midwest,Construction,Tom Becker,6000000,www.ironwoodconstruction.com,info@ironwoodconstruction.com,2026-08-26
+A-3111,Pinecrest Labs Company ,,East,Life Sciences,Dev Patel,,www.pinecrestlabs.com,ap@pinecrestlabs.com,12-Aug-2025
+A-3053,Evergreen Brewing,,EAST,Food & Beverage,Laura Chen,7500000,www.evergreenbrewing.com,purchasing@evergreenbrewing.com,07/03/2026
+A-3102,Granite Manufacturing Co.,C-1112,West,Manufacturing,kenji.watanabe@harborline.com,,www.granitemanufacturing.com,raj@granitemanufacturing.com,2026-05-16
+A-3074,Stone Bridge Construction Co.,,Central,Construction,Tom Becker,800000,www.stonebridgeconstruction.com,ap@stonebridgeconstruction.com,2026-08-03
+A-3091,Stonebridge Manufacturing,,Central,Manufacturing,Aisha Johnson,800000,www.stonebridgemanufacturing.com,ap@stonebridgemanufacturing.com,2026-09-28
+A-3120,Willow Manufacturing LLC,,South,Manufacturing,Sofia Ramirez,2000000,www.willowmanufacturing.com,info@willowmanufacturing.com,06/17/2026
+A-3108,Oakridge Auto Parts,C-1118,West,Automotive,Maria Lopez,"7,500,000",www.oakridgeautoparts.com,ap@oakridgeautoparts.com,2026-06-23
+A-3049,Lakeshore Fitness,,SOUTH,Hospitality,Marcus Hill,1200000,www.lakeshorefitness.com,ap@lakeshorefitness.com,09/14/2026
+A-3038,Evergreen Hospitality LLC,C-1041,CENTRAL,Hospitality,Aisha Johnson,"12,000,000",www.evergreenhospitality.com,ap@evergreenhospitality.com,03/21/2026
+A-3104,Kingsley Construction LLC,,East Coast,Construction,Dev Patel,,www.kingsleyconstruction.com,raj@kingsleyconstruction.com,02/26/2026
+A-3093,Granite Foods LLC,C-1102,Midwest,Food & Beverage,Aisha Johnson,"7,500,000",www.granitefoods.com,kim@granitefoods.com,28-Mar-2026
+A-3024,Kingsley Fitness Inc.,C-1025,EAST,Hospitality,laura.chen@harborline.com,1200000,www.kingsleyfitness.com,purchasing@kingsleyfitness.com,14-Apr-2026
+A-3028,Kingsley Foods Inc.,C-1029,Midwest,Food & Beverage,Tom Becker,4000000,www.kingsleyfoods.com,purchasing@kingsleyfoods.com,03-Jun-2026
+A-3034,Copper Manufacturing,C-1036,East Coast,Manufacturing,Laura Chen,800000,www.coppermanufacturing.com,kim@coppermanufacturing.com,02/21/2026
+A-3029,Copper Medical Supply LLC,C-1030,CENTRAL,Healthcare,aisha.johnson@harborline.com,"4,000,000",www.coppermedicalsupply.com,ap@coppermedicalsupply.com,01/31/2026
+A-3084,Prairie Brewing Company,C-1092,Central,Food & Beverage,Aisha Johnson,12000000,www.prairiebrewing.com,ops@prairiebrewing.com,2026-05-25
+A-3023,North Gate Medical Supply Inc.,,EAST,Healthcare,Laura Chen,"400,000",www.northgatemedicalsupply.com,ap@northgatemedicalsupply.com,2026-05-21
+A-3043,Pinecrest Labs Company,C-1047,East,Life Sciences,Dev Patel,approx 8M,www.pinecrestlabs.com,ap@pinecrestlabs.com,05/23/2026
+A-3097,Redwood Dental Group Inc.,,East Coast,Healthcare,Laura Chen,,www.redwooddentalgroup.com,jane@redwooddentalgroup.com,2026-03-26
+A-3035,Oakridge Print Works Co.,C-1038,Central,Media,Aisha Johnson,$12.0M,www.oakridgeprintworks.com,ops@oakridgeprintworks.com,03-Aug-2026
+A-3010,Coastal Auto Parts LLC,C-1011,West,Automotive,Maria Lopez,,www.coastalautoparts.com,ops@coastalautoparts.com,2026-05-05
+A-3066,Brightway Brewing Corp.,C-1072,West,Food & Beverage,Maria Lopez,1200000,www.brightwaybrewing.com,jane@brightwaybrewing.com,06/25/2026
+A-3052,Brightway Foods LLC,C-1056,West,Food & Beverage,Maria Lopez,2500000,www.brightwayfoods.com,raj@brightwayfoods.com,2026-08-11
+A-3116,Meadow Foods Inc. ,,Southeast,Food & Beverage,Marcus Hill,1000000,www.meadowfoods.com,jane@meadowfoods.com,11-Mar-2025
+A-3001,Ironwood Hospitality,,west,Hospitality,Maria Lopez,,www.ironwoodhospitality.com,ops@ironwoodhospitality.com,07/12/2026
+A-3046,Prairie Hospitality Inc.,,Midwest,Hospitality,Aisha Johnson,"800,000",www.prairiehospitality.com,jane@prairiehospitality.com,06/26/2026
+A-3040,Redwood Manufacturing LLC,C-1044,East,Manufacturing,Kenji Watanabe,$7.5M,www.redwoodmanufacturing.com,ops@redwoodmanufacturing.com,03/28/2026
+A-3022,Beacon Medical Supply LLC,,South,Healthcare,Sofia Ramirez,approx 4M,www.beaconmedicalsupply.com,ops@beaconmedicalsupply.com,2026-02-23
+A-3090,Westfield Fitness,,Central,Hospitality,Aisha Johnson,"2,500,000",www.westfieldfitness.com,purchasing@westfieldfitness.com,09/05/2026
+A-3078,Silverline Medical Supply,C-1086,SOUTH,Healthcare,marcus.hill@harborline.com,30000000,www.silverlinemedicalsupply.com,jane@silverlinemedicalsupply.com,05/19/2026
+A-3057,Riverbend Manufacturing Company,C-1062,Northeast,Manufacturing,Laura Chen,approx 1M,www.riverbendmanufacturing.com,kim@riverbendmanufacturing.com,2026-03-25
+A-3075,Silverline Packaging,C-1083,SOUTH,Manufacturing,Sofia Ramirez,approx 12M,www.silverlinepackaging.com,ap@silverlinepackaging.com,08/28/2026
+A-3060,Silverline Auto Parts Co.,C-1065,East Coast,Automotive,Dev Patel,"30,000,000",www.silverlineautoparts.com,ap@silverlineautoparts.com,06-Apr-2026
+A-3089,Willow Medical Supply Corp.,C-1097,East,Healthcare,Dev Patel,7500000,www.willowmedicalsupply.com,ap@willowmedicalsupply.com,07/05/2026
+A-3012,PRAIRIE CONSTRUCTION LLC,,South,Construction,Marcus Hill,approx 8M,www.prairieconstruction.com,ops@prairieconstruction.com,10-Mar-2026
+A-3094,Maple Medical Supply,C-1103,west,Healthcare,Kenji Watanabe,,www.maplemedicalsupply.com,jane@maplemedicalsupply.com,2026-01-17
+A-3079,Evergreen Dental Group LLC,,west,Healthcare,Maria Lopez,,www.evergreendentalgroup.com,ops@evergreendentalgroup.com,31-Jan-2026
+A-3056,Falcon Logistics Company,,East,Transportation,dev.patel@harborline.com,,www.falconlogistics.com,raj@falconlogistics.com,19-Jul-2026
+A-3077,Harbor Brewing Inc.,C-1085,CENTRAL,Food & Beverage,Aisha Johnson,7500000,www.harborbrewing.com,purchasing@harborbrewing.com,14-Sep-2026
+A-3005,Summit Auto Parts Co.,,East Coast,Automotive,Laura Chen,"12,000,000",www.summitautoparts.com,ops@summitautoparts.com,06/29/2026
+A-3092,Falcon Foods Co.,,East Coast,Food & Beverage,Dev Patel,$4.0M,www.falconfoods.com,ops@falconfoods.com,2026-07-12
+A-3020,Juniper Print Works Inc.,,West Coast,Media,Maria Lopez,approx 12M,www.juniperprintworks.com,raj@juniperprintworks.com,2026-04-07
+A-3054,Lakeshore Packaging LLC,,Central,Manufacturing,Tom Becker,,www.lakeshorepackaging.com,purchasing@lakeshorepackaging.com,2026-06-18
+A-3030,Stone Bridge Foods,,West,Food & Beverage,Kenji Watanabe,30000000,www.stonebridgefoods.com,kim@stonebridgefoods.com,2026-08-29
+A-3026,Oakridge Packaging,C-1027,East,Manufacturing,Dev Patel,$7.5M,www.oakridgepackaging.com,jane@oakridgepackaging.com,2026-05-29
+A-3068,Maple Print Works,C-1074,Southeast,Media,sofia.ramirez@harborline.com,12000000,www.mapleprintworks.com,kim@mapleprintworks.com,2026-05-11
+A-3118,Arrow Packaging LLC,,East Coast,Manufacturing,Laura Chen,"500,000",www.arrowpackaging.com,info@arrowpackaging.com,01-Jul-2026
+A-3099,Beacon Print Works Co.,C-1108,East,Media,Laura Chen,"30,000,000",www.beaconprintworks.com,ops@beaconprintworks.com,2026-01-04
+A-3058,Prairie Dental Group Inc.,C-1063,East,Healthcare,Laura Chen,800000,www.prairiedentalgroup.com,purchasing@prairiedentalgroup.com,05/16/2026
+A-3003,Summit Manufacturing,C-1003,East Coast,Manufacturing,Dev Patel,$7.5M,www.summitmanufacturing.com,jane@summitmanufacturing.com,09/19/2026
+A-3098,NORTHGATE HOSPITALITY LLC,,Central,Hospitality,Tom Becker,"2,500,000",www.northgatehospitality.com,jane@northgatehospitality.com,03/30/2026
+A-3051,Prairie Property Services Co.,C-1055,Southeast,Real Estate,Marcus Hill,800000,www.prairiepropertyservices.com,kim@prairiepropertyservices.com,2026-07-14
+A-3016,Maple Logistics Co.,,East Coast,Transportation,Laura Chen,7500000,www.maplelogistics.com,ops@maplelogistics.com,02/16/2026
+A-3061,Riverbend Construction Inc.,C-1066,EAST,Construction,Dev Patel,30000000,www.riverbendconstruction.com,ap@riverbendconstruction.com,2026-08-28
+A-3073,Pinecrest Hospitality Co.,C-1080,SOUTH,Hospitality,Maria Lopez,$4.0M,www.pinecresthospitality.com,raj@pinecresthospitality.com,2026-02-20
+A-3014,Cedar Foods,C-1015,South,Food & Beverage,Marcus Hill,$7.5M,www.cedarfoods.com,raj@cedarfoods.com,02/11/2026
+A-3045,KINGSLEY MANUFACTURING,C-1049,South,Manufacturing,Laura Chen,$12.0M,www.kingsleymanufacturing.com,purchasing@kingsleymanufacturing.com,2026-10-08
+A-3106,Lakeshore Hospitality,C-1116,SOUTH,Hospitality,marcus.hill@harborline.com,30000000,www.lakeshorehospitality.com,ap@lakeshorehospitality.com,17-Feb-2026
+A-3009,JUNIPER PROPERTY SERVICES INC.,C-1010,West,Real Estate,Maria Lopez,$2.5M,www.juniperpropertyservices.com,raj@juniperpropertyservices.com,03/28/2026
+A-3083,Willow Packaging Inc.,C-1091,Midwest,Manufacturing,Tom Becker,$1.2M,www.willowpackaging.com,jane@willowpackaging.com,07/22/2026
+A-3101,Granite Construction Inc.,C-1111,South,Construction,Marcus Hill,30000000,www.graniteconstruction.com,jane@graniteconstruction.com,10/13/2026

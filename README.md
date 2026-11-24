@@ -6,6 +6,14 @@ Built for a fictional B2B distributor, **Harborline Supply**, whose data lives i
 
 ---
 
+## Demo (90 Sec) 
+
+
+
+https://github.com/user-attachments/assets/7d396b3f-d6d3-4029-b089-5d67f527e436
+
+
+
 ## The problem
 
 *Scenario (fictional client):* Harborline's managers want answers like "how many active customers do I have?" without waiting for an analyst. Three things make that hard:

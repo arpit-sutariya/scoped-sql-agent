@@ -4,15 +4,11 @@ Ask business questions in plain English and get answers from a company's messy d
 
 Built for a fictional B2B distributor, **Harborline Supply**, whose data lives in three systems that don't agree with each other.
 
----
-
-## Demo (90 Sec) 
-
-
+## Demo (90 sec)
 
 https://github.com/user-attachments/assets/7d396b3f-d6d3-4029-b089-5d67f527e436
 
-
+---
 
 ## The problem
 
